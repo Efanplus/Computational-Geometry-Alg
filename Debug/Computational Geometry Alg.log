@@ -1,0 +1,5 @@
+﻿  POJ2318_Toys.cpp
+d:\vs2017\c++\computational geometry alg\computational geometry alg\poj2318_toys.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs2017\c++\computational geometry alg\computational geometry alg\poj2318_toys.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs2017\c++\computational geometry alg\computational geometry alg\poj2318_toys.cpp(78): warning C4018: “<=”: 有符号/无符号不匹配
+  Computational Geometry Alg.vcxproj -> D:\VS2017\C++\Computational Geometry Alg\Debug\Computational Geometry Alg.exe
